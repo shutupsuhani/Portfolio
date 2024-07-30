@@ -1,0 +1,85 @@
+{  "courses":[
+    {
+      "id": 1,
+      "title": "Introduction to Guitar",
+      "instructor": "John Smith",
+      "duration": "4 weeks",
+      "description": "Learn the basics of playing the guitar, including chords, strumming, and basic music theory.",
+      "price": "$50"
+    },
+    {
+      "id": 2,
+      "title": "Advanced Piano Techniques",
+      "instructor": "Jane Doe",
+      "duration": "8 weeks",
+      "description": "Enhance your piano skills with advanced techniques and repertoire.",
+      "price": "$100"
+    },
+    {
+      "id": 3,
+      "title": "Vocal Training for Beginners",
+      "instructor": "Sarah Johnson",
+      "duration": "6 weeks",
+      "description": "Develop your vocal skills with exercises and techniques for beginners.",
+      "price": "$70"
+    },
+    {
+      "id": 4,
+      "title": "Music Production with Ableton Live",
+      "instructor": "Mike Brown",
+      "duration": "10 weeks",
+      "description": "Learn the ins and outs of music production using Ableton Live.",
+      "price": "$120"
+    },
+    {
+      "id": 5,
+      "title": "Jazz Improvisation",
+      "instructor": "Emily Davis",
+      "duration": "5 weeks",
+      "description": "Explore the world of jazz improvisation and learn to create your own solos.",
+      "price": "$80"
+    },
+    {
+      "id": 6,
+      "title": "Drumming Fundamentals",
+      "instructor": "Chris Wilson",
+      "duration": "3 weeks",
+      "description": "Get started with drumming by learning the basic rhythms and techniques.",
+      "price": "$40"
+    },
+    {
+      "id": 7,
+      "title": "Classical Music Appreciation",
+      "instructor": "Anna Martinez",
+      "duration": "7 weeks",
+      "description": "Discover the beauty of classical music and learn about its history and key composers.",
+      "price": "$90"
+    },
+    {
+      "id": 8,
+      "title": "Electronic Music Production",
+      "instructor": "David Lee",
+      "duration": "9 weeks",
+      "description": "Create electronic music using software and hardware tools.",
+      "price": "$110"
+    },
+    {
+      "id": 9,
+      "title": "Songwriting Essentials",
+      "instructor": "Laura Kim",
+      "duration": "6 weeks",
+      "description": "Learn the fundamentals of songwriting, including lyrics, melody, and structure.",
+      "price": "$75"
+    },
+    {
+      "id": 10,
+      "title": "Advanced Violin Techniques",
+      "instructor": "Robert Brown",
+      "duration": "8 weeks",
+      "description": "Master advanced violin techniques and repertoire.",
+      "price": "$95"
+    }
+  ] 
+
+}
+  
